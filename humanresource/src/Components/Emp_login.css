@@ -1,0 +1,61 @@
+
+.emp_login_head{
+    text-align: center;
+    color: rgb(109, 110, 110);
+    font-weight: 700;
+    letter-spacing: 5px;
+}
+.bg{
+    background-color: rgba(240, 239, 239, 0.751);
+    height: 100vh;
+    padding-top: 100px;
+    
+}
+.emp_loginbox{
+    max-width: 750px;
+    margin: 0 auto;
+    background-color:white;
+    padding: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.241);
+    margin-top: 50px;
+}
+
+.details_emp input{
+    height: 35px;
+   width: 50%;
+   padding: 0 15px;
+   font-size: 14px;
+   margin-bottom:10px;
+   border: 1px solid #bcbcbc;
+   border-radius: 1px;
+   outline: none;
+}
+.details_emp input:focus{
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.382);
+  }
+  .details_emp a{
+    font-size: 16px;
+    color: #66b4db;
+    text-decoration: none;
+  }
+  .details_emp a:hover{
+    text-decoration: underline;
+    color: #66b4db;
+  }
+  .details_emp input.button{
+    color: #fff;
+    background: #7d7d7d;
+    font-size: 13px;
+    width: 70px;
+    height: 35px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: 0.4s;
+  }
+  .details_emp input.button:hover{
+    background: #3e3e3e;
+  }
+  
+  

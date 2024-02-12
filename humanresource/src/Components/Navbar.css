@@ -1,0 +1,10 @@
+#navbarNav a:hover{
+    color: #6bc8f6;
+}
+.navbar-brand{
+letter-spacing: 5px;
+color:rgb(199, 203, 203);
+font-weight: 700;
+font-size:25px;
+margin-right: 2px;
+}

@@ -1,0 +1,30 @@
+.link-boxes {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .footer{
+    background: #131313e9;
+    
+  }
+  .foothead{
+    margin-top: 50px;
+    color: aliceblue;
+    font-size: 15px;
+  }
+.foot1{
+  color: aliceblue;
+}
+/* .footconatus{
+  color: aliceblue;
+  text-decoration: none;
+  font-size: 10px;
+}
+.footsubscription{
+  color: aliceblue;
+} */
+.pfoot{
+  margin-bottom: 6px;
+  color: aliceblue;
+font-weight: 500;
+}

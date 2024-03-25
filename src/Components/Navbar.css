@@ -1,0 +1,16 @@
+
+.navoption{
+    flex-grow: 0;
+    color: aliceblue;
+    font-size: 15px;
+}
+.navoption a:hover {
+    text-decoration: underline;
+    color: #d43373;
+  }
+  .headhrms{
+   font-size: 30px;
+   font-weight:700;
+   display: flex;
+   color: rgba(234, 234, 235, 0.658);
+  }
